@@ -31,3 +31,6 @@ desktop.ini
 # IDE
 .vscode/
 .idea/
+
+# 硬件原理图（不上传）
+hardware(原理图_PCB)/
