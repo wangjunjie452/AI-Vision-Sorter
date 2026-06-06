@@ -1,0 +1,3 @@
+resistor
+led
+capacitor

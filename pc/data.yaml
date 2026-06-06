@@ -1,0 +1,9 @@
+# YOLO 数据集配置
+# 类别：电阻(0)、LED(1)、电容(2)
+
+path: ./dataset
+train: images/train
+val: images/val
+
+nc: 3
+names: ["resistor", "led", "capacitor"]

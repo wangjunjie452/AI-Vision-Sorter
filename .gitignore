@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# YOLO 训练输出（可重新生成）
+pc/runs/
+
+# 根目录重复数据集（已移到 pc/dataset/）
+dataset/
+
+# 数据集图片（太大，不上传）
+pc/dataset/images/
+
+# 标注文件（保留，方便复现训练）
+# pc/dataset/labels/
+
+# Keil 编译产物
+stm_HAL源代码/Project/Objects/
+stm_HAL源代码/Project/Listings/
+*.uvguix.*
+*.bak
+*.dep
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/

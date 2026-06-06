@@ -1,0 +1,3 @@
+Load "D:\\桌面\\项目集\\AI视觉分拣系统\\stm_HAL源代码\\Project\\Objects\\Fire_F103.axf" 
+Erase Done.Programming Done.Verify OK.Application running ...
+Flash Load finished at 14:01:41
